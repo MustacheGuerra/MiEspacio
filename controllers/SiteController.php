@@ -46,7 +46,7 @@ class SiteController extends Controller
             ],
         ];
     }
-
+// lalalalalalalal
     public function actionIndex()
     {
         return $this->render('index');
